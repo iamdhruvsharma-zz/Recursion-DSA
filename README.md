@@ -1,2 +1,2 @@
 # Recursion-DSA
-While solve Problems using Recursion
+While solve problems using recursion
